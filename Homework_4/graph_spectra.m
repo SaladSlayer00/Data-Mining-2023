@@ -24,7 +24,7 @@ sigma = 1;
 
 G = graph(col1, col2);
 d = distances(G);
-%Convert the sparse matrix As into a full adjacency matrix A
+%Create Affinity matrix
 A = exp(-(d.^2)./(2*sigma^2)) - eye(size(d));
 
 figure(1)
