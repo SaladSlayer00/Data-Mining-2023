@@ -1,0 +1,10 @@
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/config/Config.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/io/GraphReader.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/Jabeja.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/Main.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/Node.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/rand/RandNoGenerator.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/config/NodeSelectionPolicy.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/io/FileIO.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/config/GraphInitColorPolicy.java
+/Users/laura/Desktop/Homework_5/src/main/java/se/kth/jabeja/io/CLI.java
